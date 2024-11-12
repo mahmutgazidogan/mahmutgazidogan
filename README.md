@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mahmut</h1>
+<h3 align="center">Coding to become an iOS Developer!</h3>
 
-<!--
-**mahmutgazidogan/mahmutgazidogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmutgazidogan&label=Profile%20views&color=0e75b6&style=flat" alt="mahmutgazidogan" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/mahmutghasy" target="blank"><img src="https://img.shields.io/twitter/follow/mahmutghasy?logo=twitter&style=for-the-badge" alt="mahmutghasy" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Countries](https://github.com/mahmutgazidogan/Countries)
+
+- 🌱 I’m currently learning **UIKit, SwiftUI, Core Data**
+
+- 📫 How to reach me **m.gazi.dogann@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mahmutghasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmutghasy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmutdogann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmutdogann" height="30" width="40" /></a>
+<a href="https://instagram.com/m.gazi.dogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.gazi.dogan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmutgazidogan&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="mahmutgazidogan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmutgazidogan&theme=dark" alt="mahmutgazidogan" /></p>
